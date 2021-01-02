@@ -1,0 +1,74 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Last of us Part 2",
+      "developer_id": 1,
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/Y02ljdBodKFBiziorYgqftLE.png",
+      "published_date": "June 19, 2020",
+      "platforms": "PlayStation 4"
+    },
+    {
+      "id": 2,
+      "name": "Red Dead Redemption 2",
+      "developer_id": 2,
+      "published_date": "October 26, 2018",
+      "banner_url": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
+      "platforms": "PlayStation 4, Xbox One, Google Stadia, Microsoft Windows"
+    },
+    {
+      "id": 3,
+      "name": "Ghost of Tsushima",
+      "banner_url": "https://cdn.mos.cms.futurecdn.net/jKyZh7AmtzFheyg3GWUn3k.jpg",
+      "developer_id": 3,
+      "published_date": "July 17, 2020",
+      "platforms": "PlayStation 4"
+    },
+    {
+      "id": 4,
+      "name": "Bloodborne",
+      "banner_url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2614/Sy5e8DmeKIJVjlAGraPAJYkT.png",
+      "developer_id": 4,
+      "published_date": "March 24, 2015",
+      "platforms": "PlayStation 4"
+    },
+    {
+      "id": 5,
+      "name": "Dark Souls 3",
+      "banner_url": "https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/OFMeAw2KhrdaEZAjW1f3tCIXbogkLpTC.png",
+      "developer_id": 4,
+      "published_date": "March 24, 2016",
+      "platforms": "PlayStation 4, Xbox One, Microsoft Windows"
+    },
+    {
+      "id": 1,
+      "name": "Last of us Remastered",
+      "developer_id": 1,
+      "published_date": "June 19, 2020",
+      "banner_url": "https://games-b26f.kxcdn.com/wp-content/uploads/2019/12/the-last-of-us-remastered--770x470.png",
+      "platforms": "PlayStation 4"
+    }
+  ],
+  "publishers": [
+    {
+      "id": 1,
+      "name": "Naughty Dog",
+      "developer_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Rockstar Games",
+      "developer_id": 2
+    },
+    {
+      "id": 3,
+      "name": "Sucker Punch Productions",
+      "developer_id": 3
+    },
+    {
+      "id": 4,
+      "name": "FromSoftware, Inc.",
+      "developer_id": 4
+    }
+  ]
+}
